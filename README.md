@@ -1,6 +1,8 @@
 # beginningHTML
 
 ## HTML Activity
+An activity for learning the very basics of HTML.
+
 ### Objectives Of This Page:
 * Create a new HTML Document
 * DOCTYPE declaration
